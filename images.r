@@ -5,10 +5,10 @@ theme_set(theme_bw())
 
 ggplot(mtcars, aes(x = mpg, y = disp)) + 
   geom_point() + 
-  ggsave("pointchart.png", dpi = 300)
+  ggsave("pointchart.pdf")
 
 
 ggplot(infert, aes(education)) + 
   geom_bar() + 
-  ggsave("barchart.png", dpi = 300)
+  ggsave("barchart.pdf")
   
