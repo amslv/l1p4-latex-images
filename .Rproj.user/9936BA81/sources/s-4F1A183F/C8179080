@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556124153304.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C8179080",
+    "lastKnownWriteTime" : 1992422733456,
+    "last_content_update" : 1556124153304,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "357042B",
+        "caption" : "women",
+        "contentUrl" : "grid_resource/gridviewer.html?env=package%3Adatasets&obj=women&cache_key=357042B",
+        "displayedObservations" : 15,
+        "environment" : "package:datasets",
+        "expression" : "women",
+        "object" : "women",
+        "preview" : 0,
+        "totalObservations" : 15,
+        "variables" : 2
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
